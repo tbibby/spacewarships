@@ -10,7 +10,8 @@ Run this project in Xcode. After downloading starship data from the Star Wars AP
 - Handle other HTTP status codes (301, 404, etc.)
 
 # Sample output
-`Loading starship data...
+```
+Loading starship data...
 Please enter the number of mega lights or any other key to quit: 
 1000000
 Sentinel-class landing craft: 19
@@ -52,4 +53,4 @@ V-wing: 0
 CR90 corvette: 1
 Please enter the number of mega lights or any other key to quit: 
 q
-Program ended with exit code: 0`
+Program ended with exit code: 0
