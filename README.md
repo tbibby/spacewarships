@@ -9,6 +9,9 @@ Run this project in Xcode. After downloading starship data from the Star Wars AP
 - Internet reachability check
 - Handle other HTTP status codes (301, 404, etc.)
 
+# Project structure
+All code is in the main.swift file
+
 # Sample output
 ```
 Loading starship data...
